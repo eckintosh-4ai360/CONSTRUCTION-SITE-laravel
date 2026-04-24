@@ -5,12 +5,11 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>ECKINTOSH Construction - Design-Led Building & Renovation</title>
+  <title>SNODA Construction - Design-Led Building & Renovation</title>
   <meta
-    content="ECKINTOSH Construction delivers residential, commercial, and renovation projects with stronger design direction, disciplined execution, and dependable project management."
+    content="SNODA Construction delivers residential, commercial, and renovation projects with stronger design direction, disciplined execution, and dependable project management."
     name="description">
-  <meta content="ECKINTOSH Construction, design build, renovation, commercial fit-out, project management"
-    name="keywords">
+  <meta content="SNODA Construction, design build, renovation, commercial fit-out, project management" name="keywords">
 
   <!-- Favicons -->
   <link href="{{ asset('assets/img/favicon.png') }}" rel="icon">
@@ -49,7 +48,7 @@
           <div class="hero-home__content">
             <span class="hero-home__eyebrow">Established 1988 | Residential, commercial, and renovation delivery</span>
             <h1>Considered construction from concept to completion.</h1>
-            <p class="hero-home__lead ">ECKINTOSH Construction brings together project planning, craftsmanship, and site
+            <p class="hero-home__lead ">SNODA Construction brings together project planning, craftsmanship, and site
               coordination to create modern spaces that perform well and leave a stronger impression.</p>
 
             <div class="hero-home__actions d-flex flex-wrap align-items-center">
@@ -119,8 +118,8 @@
             <span>Project Management</span>
             <span>Design Coordination</span>
           </div>
+        </div>
       </div>
-</div>
     </div>
   </section><!-- End Hero Section -->
 
@@ -382,8 +381,8 @@
                   </div>
 
                   <div class="col-md-12">
-                    <textarea class="form-control" name="message" rows="6"
-                      placeholder="Tell us about your project" required></textarea>
+                    <textarea class="form-control" name="message" rows="6" placeholder="Tell us about your project"
+                      required></textarea>
                   </div>
 
                   <div class="col-md-12 text-center">
@@ -424,6 +423,3 @@
 </body>
 
 </html>
-
-
-

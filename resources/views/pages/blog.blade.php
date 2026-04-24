@@ -5,8 +5,9 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>ECKINTOSH Blog - Construction News and Insights</title>
-  <meta content="Latest construction articles, industry insights, and project updates from ECKINTOSH Construction." name="description">
+  <title>SNODA Blog - Construction News and Insights</title>
+  <meta content="Latest construction articles, industry insights, and project updates from SNODA Construction."
+    name="description">
   <meta content="construction blog, building news, industry insights" name="keywords">
 
   <!-- Favicons -->
@@ -39,7 +40,8 @@
   <main id="main">
 
     <!-- ======= Breadcrumbs ======= -->
-    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('{{ asset('assets/img/breadcrumbs-bg.jpg') }}');">
+    <div class="breadcrumbs d-flex align-items-center"
+      style="background-image: url('{{ asset('assets/img/breadcrumbs-bg.jpg') }}');">
       <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
 
         <h2>Blog</h2>
@@ -71,7 +73,7 @@
 
                 <div class="meta d-flex align-items-center">
                   <div class="d-flex align-items-center">
-                    <i class="bi bi-person"></i> <span class="ps-2">Mark Eckintosh</span>
+                    <i class="bi bi-person"></i> <span class="ps-2">Mark SNODA</span>
                   </div>
                   <span class="px-3 text-black-50">/</span>
                   <div class="d-flex align-items-center">
@@ -80,7 +82,8 @@
                 </div>
 
                 <p>
-                  Exploring how the integration of design thinking early in the construction process leads to better outcomes, reduced friction, and more cohesive final results.
+                  Exploring how the integration of design thinking early in the construction process leads to better
+                  outcomes, reduced friction, and more cohesive final results.
                 </p>
 
                 <hr>
@@ -116,7 +119,8 @@
                 </div>
 
                 <p>
-                  Successful renovations start long before the first brick is laid. We break down the essential planning steps to avoid common pitfalls and keep budgets in check.
+                  Successful renovations start long before the first brick is laid. We break down the essential planning
+                  steps to avoid common pitfalls and keep budgets in check.
                 </p>
 
                 <hr>
@@ -152,7 +156,8 @@
                 </div>
 
                 <p>
-                  Interior fit-outs are evolving. Learn how to create commercial spaces that balance collaborative zones with private focus areas for the modern workforce.
+                  Interior fit-outs are evolving. Learn how to create commercial spaces that balance collaborative zones
+                  with private focus areas for the modern workforce.
                 </p>
 
                 <hr>
@@ -188,7 +193,8 @@
                 </div>
 
                 <p>
-                  Quality assurance isn't just a final step—it's a daily practice. We discuss why active site management is the key to preventing costly rework and ensuring safety.
+                  Quality assurance isn't just a final step—it's a daily practice. We discuss why active site management
+                  is the key to preventing costly rework and ensuring safety.
                 </p>
 
                 <hr>
@@ -224,7 +230,8 @@
                 </div>
 
                 <p>
-                  From recycled aggregates to low-carbon concrete, explore the materials that are helping us build more durable structures with a smaller environmental footprint.
+                  From recycled aggregates to low-carbon concrete, explore the materials that are helping us build more
+                  durable structures with a smaller environmental footprint.
                 </p>
 
                 <hr>
@@ -260,7 +267,8 @@
                 </div>
 
                 <p>
-                  Strategies for building effectively on challenging urban sites, focusing on smart spatial planning and material efficiency to maximize project ROI.
+                  Strategies for building effectively on challenging urban sites, focusing on smart spatial planning and
+                  material efficiency to maximize project ROI.
                 </p>
 
                 <hr>
@@ -309,6 +317,3 @@
 </body>
 
 </html>
-
-
-

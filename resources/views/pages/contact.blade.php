@@ -5,9 +5,11 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Contact ECKINTOSH Construction - Get Your Quote Today</title>
-  <meta content="Contact ECKINTOSH Construction for your construction project inquiries, estimates, and consultation services." name="description">
-  <meta content="contact ECKINTOSH, construction estimate, quote, contact" name="keywords">
+  <title>Contact SNODA Construction - Get Your Quote Today</title>
+  <meta
+    content="Contact SNODA Construction for your construction project inquiries, estimates, and consultation services."
+    name="description">
+  <meta content="contact SNODA, construction estimate, quote, contact" name="keywords">
 
   <!-- Favicons -->
   <link href="{{ asset('assets/img/favicon.png') }}" rel="icon">
@@ -39,7 +41,8 @@
   <main id="main">
 
     <!-- ======= Breadcrumbs ======= -->
-    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('{{ asset('assets/img/breadcrumbs-bg.jpg') }}');">
+    <div class="breadcrumbs d-flex align-items-center"
+      style="background-image: url('{{ asset('assets/img/breadcrumbs-bg.jpg') }}');">
       <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
 
         <h2>Contact</h2>
@@ -68,7 +71,7 @@
             <div class="info-item d-flex flex-column justify-content-center align-items-center">
               <i class="bi bi-envelope"></i>
               <h3>Send Us an Email</h3>
-              <p>contact@eckintosh-construction.com</p>
+              <p>contact@SNODA-construction.com</p>
             </div>
           </div><!-- End Info Item -->
 
@@ -85,7 +88,10 @@
         <div class="row gy-4 mt-1">
 
           <div class="col-lg-6 ">
-           <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7941.964234347972!2d-0.20282599999999146!3d5.569660999999992!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sgh!4v1776109254169!5m2!1sen!2sgh" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe
+              src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7941.964234347972!2d-0.20282599999999146!3d5.569660999999992!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sgh!4v1776109254169!5m2!1sen!2sgh"
+              width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade"></iframe>
             <!-- <iframe
               src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621"
               frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe> -->
@@ -145,6 +151,3 @@
 </body>
 
 </html>
-
-
-

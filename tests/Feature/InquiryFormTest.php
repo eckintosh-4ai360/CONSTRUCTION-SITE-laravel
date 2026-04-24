@@ -13,7 +13,7 @@ class InquiryFormTest extends TestCase
     {
         Mail::fake();
 
-        config(['site.contact_recipient' => 'contact@eckintosh.test']);
+        config(['site.contact_recipient' => 'contact@SNODA.test']);
 
         $response = $this->post(route('contact.submit'), [
             'name' => 'Jane Builder',
@@ -28,7 +28,7 @@ class InquiryFormTest extends TestCase
         $response->assertSeeText('OK');
 
         Mail::assertSent(ContactInquiryMail::class, function (ContactInquiryMail $mail) {
-            return $mail->hasTo('contact@eckintosh.test')
+            return $mail->hasTo('contact@SNODA.test')
                 && $mail->details['name'] === 'Jane Builder'
                 && $mail->details['email'] === 'jane@example.com'
                 && $mail->details['subject'] === 'Kitchen renovation';
@@ -39,7 +39,7 @@ class InquiryFormTest extends TestCase
     {
         Mail::fake();
 
-        config(['site.quote_recipient' => 'quotes@eckintosh.test']);
+        config(['site.quote_recipient' => 'quotes@SNODA.test']);
 
         $response = $this->post(route('quote.submit'), [
             'name' => 'Marcus Owner',
@@ -54,7 +54,7 @@ class InquiryFormTest extends TestCase
         $response->assertSeeText('OK');
 
         Mail::assertSent(QuoteRequestMail::class, function (QuoteRequestMail $mail) {
-            return $mail->hasTo('quotes@eckintosh.test')
+            return $mail->hasTo('quotes@SNODA.test')
                 && $mail->details['name'] === 'Marcus Owner'
                 && $mail->details['email'] === 'marcus@example.com'
                 && $mail->details['phone'] === '+233 20 123 4567';

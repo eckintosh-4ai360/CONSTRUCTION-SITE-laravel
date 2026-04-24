@@ -5,8 +5,10 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Project Details - ECKINTOSH Construction Portfolio</title>
-  <meta content="View detailed project information about ECKINTOSH Construction's completed construction work and portfolio." name="description">
+  <title>Project Details - SNODA Construction Portfolio</title>
+  <meta
+    content="View detailed project information about SNODA Construction's completed construction work and portfolio."
+    name="description">
   <meta content="construction project, portfolio, completed project" name="keywords">
 
   <!-- Favicons -->
@@ -39,7 +41,8 @@
   <main id="main">
 
     <!-- ======= Breadcrumbs ======= -->
-    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('{{ asset('assets/img/breadcrumbs-bg.jpg') }}');">
+    <div class="breadcrumbs d-flex align-items-center"
+      style="background-image: url('{{ asset('assets/img/breadcrumbs-bg.jpg') }}');">
       <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
 
         <h2>Project Details</h2>
@@ -89,31 +92,39 @@
             <div class="portfolio-description">
               <h2>Professional Commercial Construction Project</h2>
               <p>
-                This commercial construction project showcases ECKINTOSH Construction's ability to deliver quality facilities on schedule and within budget. The project demonstrates our expertise in managing complex construction requirements.
+                This commercial construction project showcases SNODA Construction's ability to deliver quality
+                facilities on schedule and within budget. The project demonstrates our expertise in managing complex
+                construction requirements.
               </p>
               <p>
-                Our team coordinated all phases of construction including design consultation, permitting, construction management, and quality assurance. The final result is a modern facility that meets all specifications and regulatory requirements.
+                Our team coordinated all phases of construction including design consultation, permitting, construction
+                management, and quality assurance. The final result is a modern facility that meets all specifications
+                and regulatory requirements.
               </p>
 
               <div class="testimonial-item">
                 <p>
                   <i class="bi bi-quote quote-icon-left"></i>
-                  The attention to detail and disciplined management from ECKINTOSH Construction ensured our project was completed with the highest level of craftsmanship. They truly understood our vision.
+                  The attention to detail and disciplined management from SNODA Construction ensured our project was
+                  completed with the highest level of craftsmanship. They truly understood our vision.
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
                 <div>
                   <img src="{{ asset('assets/img/testimonials/testimonials-2.jpg') }}" class="testimonial-img" alt="">
-                  <h3>Sara Wilsson</h3>
-                  <h4>Lead Designer</h4>
+                  <h3>Sarah Jenkins</h3>
+                  <h4>Commercial Property Manager</h4>
                 </div>
               </div>
 
               <p>
-                This project involved the integration of high-performance materials and modern site systems to ensure long-term durability and structural integrity. Our focus remained on delivering a space that is both functional and aesthetically refined.
+                This project involved the integration of high-performance materials and modern site systems to ensure
+                long-term durability and structural integrity. Our focus remained on delivering a space that is both
+                functional and aesthetically refined.
               </p>
 
               <p>
-                From the structural foundation to the final interior fit-outs, every milestone was supervised to maintain compliance with safety standards and design specifications.
+                From the structural foundation to the final interior fit-outs, every milestone was supervised to
+                maintain compliance with safety standards and design specifications.
               </p>
 
             </div>
@@ -160,6 +171,3 @@
 </body>
 
 </html>
-
-
-

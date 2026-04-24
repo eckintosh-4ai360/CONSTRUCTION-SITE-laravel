@@ -5,9 +5,10 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>About ECKINTOSH Construction - Our Story and Values</title>
-  <meta content="Learn about ECKINTOSH Construction - our history, mission, and expertise in quality construction services." name="description">
-  <meta content="about ECKINTOSH, construction company, building expertise" name="keywords">
+  <title>About SNODA Construction - Our Story and Values</title>
+  <meta content="Learn about SNODA Construction - our history, mission, and expertise in quality construction services."
+    name="description">
+  <meta content="about SNODA, construction company, building expertise" name="keywords">
 
   <!-- Favicons -->
   <link href="{{ asset('assets/img/favicon.png') }}" rel="icon">
@@ -39,7 +40,8 @@
   <main id="main">
 
     <!-- ======= Breadcrumbs ======= -->
-    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('{{ asset('assets/img/breadcrumbs-bg.jpg') }}');">
+    <div class="breadcrumbs d-flex align-items-center"
+      style="background-image: url('{{ asset('assets/img/breadcrumbs-bg.jpg') }}');">
       <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
 
         <h2>About</h2>
@@ -60,21 +62,30 @@
           <div class="col-lg-6 about-img" style="background-image: url({{ asset('assets/img/about.jpg') }});"></div>
 
           <div class="col-lg-6">
-            <h2>ECKINTOSH Construction - Building Excellence</h2>
+            <h2>SNODA Construction - Building Excellence</h2>
             <div class="our-story">
               <h4>Established 1988</h4>
               <h3>Our Story</h3>
-              <p>For over three decades, ECKINTOSH Construction has been a trusted name in the construction industry. We started with a simple vision: to build structures that stand the test of time through quality craftsmanship and integrity. Today, we've grown into a comprehensive construction company serving residential, commercial, and industrial clients.</p>
+              <p>For over three decades, SNODA Construction has been a trusted name in the construction industry. We
+                started with a simple vision: to build structures that stand the test of time through quality
+                craftsmanship and integrity. Today, we've grown into a comprehensive construction company serving
+                residential, commercial, and industrial clients.</p>
               <ul>
-                <li><i class="bi bi-check-circle"></i> <span>Experienced team with over 30 years of construction expertise</span></li>
-                <li><i class="bi bi-check-circle"></i> <span>Licensed contractors and certified professionals</span></li>
-                <li><i class="bi bi-check-circle"></i> <span>Project management excellence and on-time delivery</span></li>
+                <li><i class="bi bi-check-circle"></i> <span>Experienced team with over 30 years of construction
+                    expertise</span></li>
+                <li><i class="bi bi-check-circle"></i> <span>Licensed contractors and certified professionals</span>
+                </li>
+                <li><i class="bi bi-check-circle"></i> <span>Project management excellence and on-time delivery</span>
+                </li>
               </ul>
-              <p>We believe in transparent communication, sustainable practices, and customer satisfaction. Every project we undertake reflects our commitment to delivering superior quality and exceptional value to our clients across all construction sectors.</p>
+              <p>We believe in transparent communication, sustainable practices, and customer satisfaction. Every
+                project we undertake reflects our commitment to delivering superior quality and exceptional value to our
+                clients across all construction sectors.</p>
 
               <div class="watch-video d-flex align-items-center position-relative">
                 <i class="bi bi-play-circle"></i>
-                <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox stretched-link">Watch Our Story</a>
+                <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox stretched-link">Watch Our
+                  Story</a>
               </div>
             </div>
           </div>
@@ -145,18 +156,20 @@
       <div class="container" data-aos="fade-up">
 
         <div class="row justify-content-around gy-4">
-          <div class="col-lg-6 img-bg" style="background-image: url({{ asset('assets/img/alt-services.jpg') }});" data-aos="zoom-in"
-            data-aos-delay="100"></div>
+          <div class="col-lg-6 img-bg" style="background-image: url({{ asset('assets/img/alt-services.jpg') }});"
+            data-aos="zoom-in" data-aos-delay="100"></div>
 
           <div class="col-lg-5 d-flex flex-column justify-content-center">
-            <h3>Why Choose ECKINTOSH for Your Construction Needs</h3>
-            <p>We combine decades of experience with innovative approaches to deliver exceptional results. Our commitment to excellence is evident in every project.</p>
+            <h3>Why Choose SNODA for Your Construction Needs</h3>
+            <p>We combine decades of experience with innovative approaches to deliver exceptional results. Our
+              commitment to excellence is evident in every project.</p>
 
             <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="100">
               <i class="bi bi-easel flex-shrink-0"></i>
               <div>
                 <h4><a href="" class="stretched-link">Expert Craftsmanship</a></h4>
-                <p>Our skilled teams bring technical expertise and attention to detail to every construction project ensuring superior quality results.
+                <p>Our skilled teams bring technical expertise and attention to detail to every construction project
+                  ensuring superior quality results.
                 </p>
               </div>
             </div><!-- End Icon Box -->
@@ -165,7 +178,8 @@
               <i class="bi bi-patch-check flex-shrink-0"></i>
               <div>
                 <h4><a href="" class="stretched-link">Reliability</a></h4>
-                <p>On-time project delivery, transparent communication, and budget adherence are hallmarks of our service to clients.
+                <p>On-time project delivery, transparent communication, and budget adherence are hallmarks of our
+                  service to clients.
                 </p>
               </div>
             </div><!-- End Icon Box -->
@@ -174,7 +188,8 @@
               <i class="bi bi-brightness-high flex-shrink-0"></i>
               <div>
                 <h4><a href="" class="stretched-link">Innovation</a></h4>
-                <p>We stay current with modern construction techniques and sustainable practices to deliver efficient, forward-thinking solutions.
+                <p>We stay current with modern construction techniques and sustainable practices to deliver efficient,
+                  forward-thinking solutions.
                 </p>
               </div>
             </div><!-- End Icon Box -->
@@ -183,7 +198,8 @@
               <i class="bi bi-brightness-high flex-shrink-0"></i>
               <div>
                 <h4><a href="" class="stretched-link">Client Partnership</a></h4>
-                <p>We work as partners with our clients, understanding their vision and delivering results that exceed expectations and add lasting value.
+                <p>We work as partners with our clients, understanding their vision and delivering results that exceed
+                  expectations and add lasting value.
                 </p>
               </div>
             </div><!-- End Icon Box -->
@@ -200,15 +216,17 @@
 
         <div class="row justify-content-around gy-4">
           <div class="col-lg-5 d-flex flex-column justify-content-center">
-            <h3>ECKINTOSH Construction Capabilities</h3>
-            <p>From initial design consultation through final project completion, we manage every aspect of construction with professional excellence.
+            <h3>SNODA Construction Capabilities</h3>
+            <p>From initial design consultation through final project completion, we manage every aspect of construction
+              with professional excellence.
 
 
             <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="100">
               <i class="bi bi-easel flex-shrink-0"></i>
               <div>
                 <h4><a href="" class="stretched-link">Design Services</a></h4>
-                <p>Collaborative design consultation aligned with your vision, requirements and budget constraints for optimal outcomes.
+                <p>Collaborative design consultation aligned with your vision, requirements and budget constraints for
+                  optimal outcomes.
                 </p>
               </div>
             </div><!-- End Icon Box -->
@@ -217,7 +235,8 @@
               <i class="bi bi-patch-check flex-shrink-0"></i>
               <div>
                 <h4><a href="" class="stretched-link">Construction Management</a></h4>
-                <p>Expert oversight and coordination ensuring timely delivery, cost control, and compliance with all safety and regulatory standards.
+                <p>Expert oversight and coordination ensuring timely delivery, cost control, and compliance with all
+                  safety and regulatory standards.
                 </p>
               </div>
             </div><!-- End Icon Box -->
@@ -226,7 +245,8 @@
               <i class="bi bi-brightness-high flex-shrink-0"></i>
               <div>
                 <h4><a href="" class="stretched-link">Quality Assurance</a></h4>
-                <p>Rigorous inspection protocols and quality control procedures throughout all construction phases ensuring superior results.
+                <p>Rigorous inspection protocols and quality control procedures throughout all construction phases
+                  ensuring superior results.
                 </p>
               </div>
             </div><!-- End Icon Box -->
@@ -235,14 +255,15 @@
               <i class="bi bi-brightness-high flex-shrink-0"></i>
               <div>
                 <h4><a href="" class="stretched-link">Specialized Services</a></h4>
-                <p>Custom construction solutions for unique requirements including renovations, repairs, and specialized facility construction.
+                <p>Custom construction solutions for unique requirements including renovations, repairs, and specialized
+                  facility construction.
                 </p>
               </div>
             </div><!-- End Icon Box -->
           </div>
 
-          <div class="col-lg-6 img-bg" style="background-image: url({{ asset('assets/img/alt-services-2.jpg') }});" data-aos="zoom-in"
-            data-aos-delay="100"></div>
+          <div class="col-lg-6 img-bg" style="background-image: url({{ asset('assets/img/alt-services-2.jpg') }});"
+            data-aos="zoom-in" data-aos-delay="100"></div>
         </div>
 
       </div>
@@ -254,7 +275,8 @@
 
         <div class="section-header">
           <h2>Our Team</h2>
-          <p>Meet our dedicated professionals who bring expertise, skill, and passion to every ECKINTOSH Construction project, ensuring quality and client satisfaction.</p>
+          <p>Meet our dedicated professionals who bring expertise, skill, and passion to every SNODA Construction
+            project, ensuring quality and client satisfaction.</p>
         </div>
 
         <div class="row gy-5">
@@ -272,7 +294,8 @@
             <div class="member-info text-center">
               <h4>James Richardson</h4>
               <span>Project Director</span>
-              <p>Experienced project director with expertise in managing large-scale construction projects and leading teams through complex deliverables.
+              <p>Experienced project director with expertise in managing large-scale construction projects and leading
+                teams through complex deliverables.
               </p>
             </div>
           </div><!-- End Team Member -->
@@ -290,8 +313,9 @@
             <div class="member-info text-center">
               <h4>Lisa Martinez</h4>
               <span>Operations Manager</span>
-              <p>Operations specialist ensuring efficient project coordination, resource management, and quality control across all ECKINTOSH Construction initiatives.
-                </p>
+              <p>Operations specialist ensuring efficient project coordination, resource management, and quality control
+                across all SNODA Construction initiatives.
+              </p>
             </div>
           </div><!-- End Team Member -->
 
@@ -308,8 +332,9 @@
             <div class="member-info text-center">
               <h4>Michael Chen</h4>
               <span>Lead Architect</span>
-              <p>Principal architect designing innovative construction solutions with technical excellence and sustainable building practices.
-                </p>
+              <p>Principal architect designing innovative construction solutions with technical excellence and
+                sustainable building practices.
+              </p>
             </div>
           </div><!-- End Team Member -->
 
@@ -326,8 +351,9 @@
             <div class="member-info text-center">
               <h4>Jennifer Adams</h4>
               <span>Quality Assurance Lead</span>
-              <p>Quality assurance professional ensuring all ECKINTOSH Construction projects meet the highest standards and regulatory compliance requirements.
-                </p>
+              <p>Quality assurance professional ensuring all SNODA Construction projects meet the highest standards and
+                regulatory compliance requirements.
+              </p>
             </div>
           </div><!-- End Team Member -->
 
@@ -344,7 +370,8 @@
             <div class="member-info text-center">
               <h4>David Thompson</h4>
               <span>Site Supervisor</span>
-              <p>Ensuring day-to-day excellence on-site, David manages field teams and subcontractors with a focus on safety and adherence to project specifications.</p>
+              <p>Ensuring day-to-day excellence on-site, David manages field teams and subcontractors with a focus on
+                safety and adherence to project specifications.</p>
             </div>
           </div><!-- End Team Member -->
 
@@ -361,7 +388,8 @@
             <div class="member-info text-center">
               <h4>Josepha Palas</h4>
               <span>Project Planner</span>
-              <p>Specializing in preconstruction clarity, Josepha coordinates timelines and resource allocation to ensure a smooth transition from design to build.</p>
+              <p>Specializing in preconstruction clarity, Josepha coordinates timelines and resource allocation to
+                ensure a smooth transition from design to build.</p>
             </div>
           </div><!-- End Team Member -->
 
@@ -376,7 +404,8 @@
 
         <div class="section-header">
           <h2>Testimonials</h2>
-          <p>Read what our clients have to say about their experience working with ECKINTOSH Construction on residential and commercial projects.</p>
+          <p>Read what our clients have to say about their experience working with SNODA Construction on residential and
+            commercial projects.</p>
         </div>
 
         <div class="slides-2 swiper">
@@ -386,15 +415,16 @@
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
                   <img src="{{ asset('assets/img/testimonials/testimonials-1.jpg') }}" class="testimonial-img" alt="">
-                  <h3>Saul Goodman</h3>
-                  <h4>Ceo &amp; Founder</h4>
+                  <h3>Robert Mitchell</h3>
+                  <h4>Homeowner</h4>
                   <div class="stars">
                     <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
                       class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                   </div>
                   <p>
                     <i class="bi bi-quote quote-icon-left"></i>
-                    ECKINTOSH Construction delivered our contemporary home with incredible attention to detail. Their design-led approach made a huge difference in the final finish quality.
+                    SNODA Construction delivered our contemporary home with incredible attention to detail. Their
+                    design-led approach made a huge difference in the final finish quality.
                     <i class="bi bi-quote quote-icon-right"></i>
                   </p>
                 </div>
@@ -405,15 +435,16 @@
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
                   <img src="{{ asset('assets/img/testimonials/testimonials-2.jpg') }}" class="testimonial-img" alt="">
-                  <h3>Sara Wilsson</h3>
-                  <h4>Designer</h4>
+                  <h3>Sarah Jenkins</h3>
+                  <h4>Commercial Property Manager</h4>
                   <div class="stars">
                     <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
                       class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                   </div>
                   <p>
                     <i class="bi bi-quote quote-icon-left"></i>
-                    The commercial fit-out they managed for our office was seamless. They kept us informed at every step and delivered a space that perfectly represents our brand identity.
+                    The commercial fit-out they managed for our office was seamless. They kept us informed at every step
+                    and delivered a space that perfectly represents our brand identity.
                     <i class="bi bi-quote quote-icon-right"></i>
                   </p>
                 </div>
@@ -424,15 +455,16 @@
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
                   <img src="{{ asset('assets/img/testimonials/testimonials-3.jpg') }}" class="testimonial-img" alt="">
-                  <h3>Jena Karlis</h3>
-                  <h4>Store Owner</h4>
+                  <h3>David Chen</h3>
+                  <h4>Retail Director</h4>
                   <div class="stars">
                     <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
                       class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                   </div>
                   <p>
                     <i class="bi bi-quote quote-icon-left"></i>
-                    We've worked with many contractors, but the level of site supervision and transparency from ECKINTOSH is unmatched. They are our go-to partner for all our renovations.
+                    We've worked with many contractors, but the level of site supervision and transparency from SNODA is
+                    unmatched. They are our go-to partner for all our renovations.
                     <i class="bi bi-quote quote-icon-right"></i>
                   </p>
                 </div>
@@ -443,15 +475,16 @@
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
                   <img src="{{ asset('assets/img/testimonials/testimonials-4.jpg') }}" class="testimonial-img" alt="">
-                  <h3>Matt Brandon</h3>
-                  <h4>Freelancer</h4>
+                  <h3>Michael Carter</h3>
+                  <h4>Residential Client</h4>
                   <div class="stars">
                     <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
                       class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                   </div>
                   <p>
                     <i class="bi bi-quote quote-icon-left"></i>
-                    Professional, disciplined, and detail-oriented. The team at ECKINTOSH made a complex infrastructure project feel manageable and readable from start to finish.
+                    Professional, disciplined, and detail-oriented. The team at SNODA made a complex infrastructure
+                    project feel manageable and readable from start to finish.
                     <i class="bi bi-quote quote-icon-right"></i>
                   </p>
                 </div>
@@ -462,15 +495,16 @@
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
                   <img src="{{ asset('assets/img/testimonials/testimonials-5.jpg') }}" class="testimonial-img" alt="">
-                  <h3>John Larson</h3>
-                  <h4>Entrepreneur</h4>
+                  <h3>James Anderson</h3>
+                  <h4>Development Partner</h4>
                   <div class="stars">
                     <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
                       class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                   </div>
                   <p>
                     <i class="bi bi-quote quote-icon-left"></i>
-                    Highly recommend for anyone looking for a construction partner who values finish quality as much as the owner does. They truly care about the final result.
+                    Highly recommend for anyone looking for a construction partner who values finish quality as much as
+                    the owner does. They truly care about the final result.
                     <i class="bi bi-quote quote-icon-right"></i>
                   </p>
                 </div>
@@ -507,6 +541,3 @@
 </body>
 
 </html>
-
-
-

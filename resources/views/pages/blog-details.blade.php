@@ -5,8 +5,9 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Blog - Construction Insights | ECKINTOSH Construction</title>
-  <meta content="Read our latest construction articles and industry insights from ECKINTOSH Construction blog." name="description">
+  <title>Blog - Construction Insights | SNODA Construction</title>
+  <meta content="Read our latest construction articles and industry insights from SNODA Construction blog."
+    name="description">
   <meta content="construction blog, articles, industry news" name="keywords">
 
   <!-- Favicons -->
@@ -39,7 +40,8 @@
   <main id="main">
 
     <!-- ======= Breadcrumbs ======= -->
-    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('{{ asset('assets/img/breadcrumbs-bg.jpg') }}');">
+    <div class="breadcrumbs d-flex align-items-center"
+      style="background-image: url('{{ asset('assets/img/breadcrumbs-bg.jpg') }}');">
       <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
 
         <h2>Blog Details</h2>
@@ -69,49 +71,67 @@
 
               <div class="meta-top">
                 <ul>
-                  <li class="d-flex align-items-center"><i class="bi bi-person"></i> <a href="{{ route('blog-details') }}">ECKINTOSH Construction</a></li>
-                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <a href="{{ route('blog-details') }}"><time datetime="2024-01-15">Jan 15, 2024</time></a></li>
-                  <li class="d-flex align-items-center"><i class="bi bi-chat-dots"></i> <a href="{{ route('blog-details') }}">Safety in Construction</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-person"></i> <a
+                      href="{{ route('blog-details') }}">SNODA Construction</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <a
+                      href="{{ route('blog-details') }}"><time datetime="2024-01-15">Jan 15, 2024</time></a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-chat-dots"></i> <a
+                      href="{{ route('blog-details') }}">Safety in Construction</a></li>
                 </ul>
               </div><!-- End meta top -->
 
               <div class="content">
                 <p>
-                  Safety is paramount in construction. ECKINTOSH Construction prioritizes worker safety and site security through comprehensive training, proper equipment, and adherence to all safety regulations. Our proactive approach reduces incidents and ensures project success.
+                  Safety is paramount in construction. SNODA Construction prioritizes worker safety and site security
+                  through comprehensive training, proper equipment, and adherence to all safety regulations. Our
+                  proactive approach reduces incidents and ensures project success.
                 </p>
 
                 <p>
-                  Modern construction requires constant attention to safety protocols. From personal protective equipment to site hazard assessment, we maintain the highest standards to protect our teams and the public.
+                  Modern construction requires constant attention to safety protocols. From personal protective
+                  equipment to site hazard assessment, we maintain the highest standards to protect our teams and the
+                  public.
                 </p>
 
                 <blockquote>
                   <p>
-                    A safe workplace is a productive workplace. Prioritizing safety practices leads to better outcomes, reduced incidents, and successful project completion.
+                    A safe workplace is a productive workplace. Prioritizing safety practices leads to better outcomes,
+                    reduced incidents, and successful project completion.
                   </p>
                 </blockquote>
 
                 <p>
-                  Effective site supervision involves regular inspections and the enforcement of rigorous safety standards. This includes ensuring all structural elements are properly secured and all machinery is operated by certified personnel. By fostering a culture of safety, we not only protect lives but also improve the efficiency and quality of our delivery.
+                  Effective site supervision involves regular inspections and the enforcement of rigorous safety
+                  standards. This includes ensuring all structural elements are properly secured and all machinery is
+                  operated by certified personnel. By fostering a culture of safety, we not only protect lives but also
+                  improve the efficiency and quality of our delivery.
                 </p>
 
                 <h3>Implementing Digital Safety Tracking</h3>
                 <p>
-                  We are now utilizing digital tools to track site safety in real-time. This allows our project managers to identify potential risks before they become issues, ensuring that every ECKINTOSH site remains a benchmark for safety and professional execution.
+                  We are now utilizing digital tools to track site safety in real-time. This allows our project managers
+                  to identify potential risks before they become issues, ensuring that every SNODA site remains a
+                  benchmark for safety and professional execution.
                 </p>
                 <img src="{{ asset('assets/img/blog/blog-inside-post.jpg') }}" class="img-fluid" alt="">
 
                 <h3>Continuous Training and Development</h3>
                 <p>
-                  Technology and regulations in the construction industry are constantly evolving. At ECKINTOSH, we invest in ongoing training for our staff and contractors to ensure they are equipped with the latest knowledge in building safety and high-performance execution.
+                  Technology and regulations in the construction industry are constantly evolving. At SNODA, we invest
+                  in ongoing training for our staff and contractors to ensure they are equipped with the latest
+                  knowledge in building safety and high-performance execution.
                 </p>
                 <img src="{{ asset('assets/img/blog/blog-inside-post.jpg') }}" class="img-fluid" alt="">
 
                 <h3>Handover and Quality Assurance</h3>
                 <p>
-                  The final phase of any project involves a rigorous quality assurance check. We ensure that every detail meets our design-led standards and that the site is handed over in a clean, safe, and ready-to-use condition. This commitment to finish quality is what sets ECKINTOSH apart.
+                  The final phase of any project involves a rigorous quality assurance check. We ensure that every
+                  detail meets our design-led standards and that the site is handed over in a clean, safe, and
+                  ready-to-use condition. This commitment to finish quality is what sets SNODA apart.
                 </p>
                 <p>
-                  By integrating safety, design, and execution into one cohesive process, we deliver spaces that are not just built to last, but built to perform.
+                  By integrating safety, design, and execution into one cohesive process, we deliver spaces that are not
+                  just built to last, but built to perform.
                 </p>
 
               </div><!-- End post content -->
@@ -142,7 +162,8 @@
                   <a href="https://instagram.com/#"><i class="biu bi-instagram"></i></a>
                 </div>
                 <p>
-                  Mark Eckintosh leads the delivery team at ECKINTOSH Construction, bringing decades of site management experience and a passion for disciplined, design-led execution.
+                  Mark SNODA leads the delivery team at SNODA Construction, bringing decades of site management
+                  experience and a passion for disciplined, design-led execution.
                 </p>
               </div>
             </div><!-- End post author -->
@@ -155,10 +176,12 @@
                 <div class="d-flex">
                   <div class="comment-img"><img src="{{ asset('assets/img/blog/comments-1.jpg') }}" alt=""></div>
                   <div>
-                    <h5><a href="">Georgia Middleton</a> <a href="#" class="reply"><i class="bi bi-reply-fill"></i> Reply</a></h5>
+                    <h5><a href="">Georgia Middleton</a> <a href="#" class="reply"><i class="bi bi-reply-fill"></i>
+                        Reply</a></h5>
                     <time datetime="2022-01-01">01 Jan, 2024</time>
                     <p>
-                      Great article! We are planning a renovation for our office space and the tips about preconstruction planning are exactly what we needed to hear.
+                      Great article! We are planning a renovation for our office space and the tips about
+                      preconstruction planning are exactly what we needed to hear.
                     </p>
                   </div>
                 </div>
@@ -168,10 +191,12 @@
                 <div class="d-flex">
                   <div class="comment-img"><img src="{{ asset('assets/img/blog/comments-2.jpg') }}" alt=""></div>
                   <div>
-                    <h5><a href="">Amedeo Jara</a> <a href="#" class="reply"><i class="bi bi-reply-fill"></i> Reply</a></h5>
+                    <h5><a href="">Amedeo Jara</a> <a href="#" class="reply"><i class="bi bi-reply-fill"></i> Reply</a>
+                    </h5>
                     <time datetime="2022-01-01">02 Jan, 2024</time>
                     <p>
-                      I completely agree. Budget transparency is the most important factor for us when choosing a construction partner.
+                      I completely agree. Budget transparency is the most important factor for us when choosing a
+                      construction partner.
                     </p>
                   </div>
                 </div>
@@ -227,7 +252,8 @@
                         Reply</a></h5>
                     <time datetime="2022-01-01">05 Jan, 2024</time>
                     <p>
-                      Very insightful post. The mention of sustainable materials is very timely. We are seeing more clients asking for eco-friendly building solutions lately.
+                      Very insightful post. The mention of sustainable materials is very timely. We are seeing more
+                      clients asking for eco-friendly building solutions lately.
                     </p>
                   </div>
                 </div>
@@ -242,7 +268,8 @@
                     </h5>
                     <time datetime="2022-01-01">10 Jan, 2024</time>
                     <p>
-                      Thanks for sharing these details. It's always good to see how professional firms handle project management milestones.
+                      Thanks for sharing these details. It's always good to see how professional firms handle project
+                      management milestones.
                     </p>
                   </div>
                 </div>
@@ -322,7 +349,8 @@
                   <div class="post-item">
                     <img src="{{ asset('assets/img/blog/blog-recent-2.jpg') }}" alt="">
                     <div>
-                      <h4><a href="{{ route('blog-details') }}">5 Things to Consider Before Starting a Home Renovation</a></h4>
+                      <h4><a href="{{ route('blog-details') }}">5 Things to Consider Before Starting a Home
+                          Renovation</a></h4>
                       <time datetime="2024-03-19">March 19, 2024</time>
                     </div>
                   </div><!-- End recent post item-->
@@ -330,7 +358,8 @@
                   <div class="post-item">
                     <img src="{{ asset('assets/img/blog/blog-recent-3.jpg') }}" alt="">
                     <div>
-                      <h4><a href="{{ route('blog-details') }}">Optimizing Commercial Spaces for Modern Hybrid Work</a></h4>
+                      <h4><a href="{{ route('blog-details') }}">Optimizing Commercial Spaces for Modern Hybrid Work</a>
+                      </h4>
                       <time datetime="2024-02-24">Feb 24, 2024</time>
                     </div>
                   </div><!-- End recent post item-->
@@ -400,6 +429,3 @@
 </body>
 
 </html>
-
-
-

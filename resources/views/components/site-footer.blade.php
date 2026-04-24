@@ -1,5 +1,5 @@
 @php
-    $consultationUrl = request()->routeIs('home') ? '#consultation' : route('home') . '#consultation';
+  $consultationUrl = request()->routeIs('home') ? '#consultation' : route('home') . '#consultation';
 @endphp
 
 <footer id="footer" class="footer home-footer">
@@ -9,12 +9,12 @@
 
         <div class="col-lg-4 col-md-6">
           <div class="footer-info">
-            <h3>ECK<span>in</span>TOSH<span>.</span></h3>
+            <h3>SNODA.</span></h3>
             <p>
               1234 Construction Drive <br>
               Building City, ST 12345<br><br>
               <strong>Phone:</strong> +1 (555) 123-4567<br>
-              <strong>Email:</strong> contact@eckintosh-construction.com<br>
+              <strong>Email:</strong> contact@SNODA-construction.com<br>
             </p>
             <div class="social-links d-flex mt-3">
               <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-twitter"></i></a>
@@ -65,15 +65,14 @@
   <div class="footer-legal text-center position-relative">
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>ECKINTOSH Construction</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>SNODA Construction</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
-        <!-- Licensing information: https://Eckintosh.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://Eckintosh.com/upconstruction-bootstrap-construction-website-template/ -->
-        Designed by <a href="https://Eckintosh.com/">Eckintosh</a> Distributed by <a
-          href="https://Eckintosh.com">Eckintosh</a>
+        <!-- Licensing information: https://SNODA.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://SNODA.com/upconstruction-bootstrap-construction-website-template/ -->
+        Designed by <a href="https://SNODA.com/">SNODA</a> Distributed by <a href="https://SNODA.com">SNODA</a>
       </div>
     </div>
   </div>

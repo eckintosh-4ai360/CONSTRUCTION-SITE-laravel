@@ -5,8 +5,10 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Construction Services - ECKINTOSH Professional Solutions</title>
-  <meta content="Detailed information about ECKINTOSH Construction services including new construction, renovations, and project management." name="description">
+  <title>Construction Services - SNODA Professional Solutions</title>
+  <meta
+    content="Detailed information about SNODA Construction services including new construction, renovations, and project management."
+    name="description">
   <meta content="construction services, building services" name="keywords">
 
   <!-- Favicons -->
@@ -39,7 +41,8 @@
   <main id="main">
 
     <!-- ======= Breadcrumbs ======= -->
-    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('{{ asset('assets/img/breadcrumbs-bg.jpg') }}');">
+    <div class="breadcrumbs d-flex align-items-center"
+      style="background-image: url('{{ asset('assets/img/breadcrumbs-bg.jpg') }}');">
       <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
 
         <h2>Service Details</h2>
@@ -67,25 +70,31 @@
             </div>
 
             <h4>Professional Construction Excellence</h4>
-            <p>ECKINTOSH Construction delivers comprehensive services combining quality craftsmanship with innovative project management. We handle projects of all sizes with precision and integrity.</p>
+            <p>SNODA Construction delivers comprehensive services combining quality craftsmanship with innovative
+              project management. We handle projects of all sizes with precision and integrity.</p>
           </div>
 
           <div class="col-lg-8">
             <img src="{{ asset('assets/img/services.jpg') }}" alt="" class="img-fluid services-img">
             <h3>Complete Construction Services for Your Project</h3>
             <p>
-              ECKINTOSH Construction provides end-to-end construction services tailored to your specific requirements. Our experienced team manages every phase of your project with professional expertise and attention to detail.
+              SNODA Construction provides end-to-end construction services tailored to your specific requirements. Our
+              experienced team manages every phase of your project with professional expertise and attention to detail.
             </p>
             <ul>
-              <li><i class="bi bi-check-circle"></i> <span>Comprehensive project planning and design consultation</span></li>
+              <li><i class="bi bi-check-circle"></i> <span>Comprehensive project planning and design consultation</span>
+              </li>
               <li><i class="bi bi-check-circle"></i> <span>Expert construction management and oversight</span></li>
               <li><i class="bi bi-check-circle"></i> <span>Quality assurance throughout construction phases</span></li>
             </ul>
             <p>
-              We specialize in residential, commercial, and industrial construction projects. Our commitment to safety, compliance, and customer satisfaction ensures your project succeeds on schedule and within budget.
+              We specialize in residential, commercial, and industrial construction projects. Our commitment to safety,
+              compliance, and customer satisfaction ensures your project succeeds on schedule and within budget.
             </p>
             <p>
-              From initial concept through final completion, ECKINTOSH Construction delivers reliable construction solutions with professional workmanship and proven expertise. Contact us today for your project consultation and free quote.
+              From initial concept through final completion, SNODA Construction delivers reliable construction solutions
+              with professional workmanship and proven expertise. Contact us today for your project consultation and
+              free quote.
             </p>
           </div>
 
@@ -117,6 +126,3 @@
 </body>
 
 </html>
-
-
-

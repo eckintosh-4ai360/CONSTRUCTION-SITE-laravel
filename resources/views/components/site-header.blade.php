@@ -1,14 +1,14 @@
 @php
-    $servicesActive = request()->routeIs('services') || request()->routeIs('service-details');
-    $projectsActive = request()->routeIs('projects') || request()->routeIs('project-details');
-    $blogActive = request()->routeIs('blog') || request()->routeIs('blog-details');
-    $startProjectUrl = request()->routeIs('home') ? '#consultation' : route('home') . '#consultation';
+  $servicesActive = request()->routeIs('services') || request()->routeIs('service-details');
+  $projectsActive = request()->routeIs('projects') || request()->routeIs('project-details');
+  $blogActive = request()->routeIs('blog') || request()->routeIs('blog-details');
+  $startProjectUrl = request()->routeIs('home') ? '#consultation' : route('home') . '#consultation';
 @endphp
 
 <header id="header" class="header d-flex align-items-center site-header">
   <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
     <a href="{{ route('home') }}" class="logo d-flex align-items-center">
-      <h1>ECK<span>in</span>TOSH<span>.</span></h1>
+      <h1>SNODA.</span></h1>
     </a>
 
     <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>

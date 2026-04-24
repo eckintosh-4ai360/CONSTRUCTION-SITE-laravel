@@ -1,5 +1,11 @@
 <?php
 
+// Normalize APP_URL (Railway may omit the scheme)
+$fsAppUrl = env('APP_URL', 'http://localhost');
+if ($fsAppUrl && !preg_match('#^https?://#i', $fsAppUrl)) {
+    $fsAppUrl = 'https://' . $fsAppUrl;
+}
+
 return [
 
     /*
@@ -41,7 +47,7 @@ return [
         'public' => [
             'driver' => 'local',
             'root' => storage_path('app/public'),
-            'url' => rtrim(env('APP_URL', 'http://localhost'), '/').'/storage',
+            'url' => rtrim($fsAppUrl, '/').'/storage',
             'visibility' => 'public',
             'throw' => false,
             'report' => false,

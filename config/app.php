@@ -1,5 +1,18 @@
 <?php
 
+/*
+|--------------------------------------------------------------------------
+| Normalize APP_URL
+|--------------------------------------------------------------------------
+| Railway and similar platforms may inject APP_URL without a scheme.
+| Auto-prepend https:// when the scheme is missing so that Symfony's
+| URI parser does not throw "Invalid URI: Scheme is malformed".
+*/
+$appUrl = env('APP_URL', 'http://localhost');
+if ($appUrl && !preg_match('#^https?://#i', $appUrl)) {
+    $appUrl = 'https://' . $appUrl;
+}
+
 return [
 
     /*
@@ -52,7 +65,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => $appUrl,
 
     /*
     |--------------------------------------------------------------------------

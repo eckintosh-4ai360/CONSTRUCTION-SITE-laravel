@@ -1,5 +1,11 @@
 <?php
 
+// Normalize APP_URL (Railway may omit the scheme)
+$mailAppUrl = env('APP_URL', 'http://localhost');
+if ($mailAppUrl && !preg_match('#^https?://#i', $mailAppUrl)) {
+    $mailAppUrl = 'https://' . $mailAppUrl;
+}
+
 $configuredMailScheme = env('MAIL_SCHEME');
 $configuredMailEncryption = env('MAIL_ENCRYPTION');
 $normalizedMailScheme = strtolower((string) ($configuredMailScheme ?: $configuredMailEncryption ?: ''));
@@ -56,7 +62,7 @@ return [
             'username' => env('MAIL_USERNAME'),
             'password' => env('MAIL_PASSWORD'),
             'timeout' => env('MAIL_TIMEOUT', 30),
-            'local_domain' => env('MAIL_EHLO_DOMAIN', parse_url((string) env('APP_URL', 'http://localhost'), PHP_URL_HOST)),
+            'local_domain' => env('MAIL_EHLO_DOMAIN', parse_url((string) $mailAppUrl, PHP_URL_HOST)),
         ],
 
         'ses' => [
